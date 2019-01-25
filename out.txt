@@ -1,0 +1,16 @@
+.
+..
+CODEOWNERS
+ContentOwners.txt
+.DS_Store
+Enterprise
+.git
+.gitignore
+LICENSE
+LICENSE-CODE
+.openpublishing.build.ps1
+.openpublishing.publish.config.json
+.openpublishing.redirection.json
+out.txt
+README.md
+ThirdPartyNotices
